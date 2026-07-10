@@ -2,7 +2,7 @@ trigger:
   - main
 
 variables:
-  acrName: 'sandeepreddam01'
+  acrName: 'sandeepreddam02'
 
 stages:
 - stage: Build
